@@ -441,7 +441,7 @@ export default function App() {
                   </div>
                   <div>
                     <h2 className="text-3xl font-black tracking-tight text-zinc-100">Personalize My Journey</h2>
-                    <p className="text-[10px] font-black text-zinc-500 uppercase tracking-[0.2em] mt-1">AI-Powered Nutrition Blueprint</p>
+                    <p className="text-[10px] font-black text-zinc-500 uppercase tracking-[0.2em] mt-1">Local Nutrition Blueprint</p>
                   </div>
                 </div>
 
@@ -564,7 +564,7 @@ export default function App() {
                     >
                       <Activity className="w-20 h-20 text-emerald-600" />
                     </motion.div>
-                    <p className="text-zinc-500 font-black text-xl tracking-tight">Crafting your blueprint...</p>
+                    <p className="text-zinc-500 font-black text-xl tracking-tight">Calculating your blueprint...</p>
                   </div>
                 )}
               </div>
